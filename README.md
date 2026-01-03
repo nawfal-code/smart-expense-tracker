@@ -53,6 +53,4 @@ https://smartexpensetrackerz.netlify.app/
 
 ## Author
 **MOHAMMED NAWFAL**
-MERN STACK DEVELOPER
-## Folder Structure
-
+*-MERN STACK DEVELOPER*
