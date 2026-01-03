@@ -4,9 +4,9 @@ A **React JS** application to track daily expenses and incomes, categorize them,
 
 ---
 
-## Demo
+## Live Demo
 
-You can deploy this project on **Netlify** or **Render**.  
+https://smartexpensetrackerz.netlify.app/
 
 ---
 
